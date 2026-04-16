@@ -1,0 +1,15 @@
+{
+"patient_id": "example_patient_id",
+    "policy_document_name": "example_policy_document",
+"q1": : "yes", 
+ "q2": : "no",
+ "q3": : "yes",
+ "q4": : "no",
+ "q5": : "yes",
+ "q6": : "no",
+ "q7": : "yes",
+ "q8": : "no",
+ "q9": : "yes",
+ "q10": : "no"
+}
+

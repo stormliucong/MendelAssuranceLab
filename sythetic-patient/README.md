@@ -1,0 +1,1 @@
+Sythetic Patients generated go to this folder

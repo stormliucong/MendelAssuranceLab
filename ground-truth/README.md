@@ -1,0 +1,1 @@
+This folder contains ground truth for this benchmark
