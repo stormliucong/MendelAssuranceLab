@@ -1,1 +1,0 @@
-This folder contains pdf or html files for the insurance policies
