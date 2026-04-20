@@ -1,15 +1,23 @@
 {
-"patient_id": "example_patient_id",
-    "policy_document_name": "example_policy_document",
-"q1": : "yes", 
- "q2": : "no",
- "q3": : "yes",
- "q4": : "no",
- "q5": : "yes",
- "q6": : "no",
- "q7": : "yes",
- "q8": : "no",
- "q9": : "yes",
- "q10": : "no"
+  "Some_Patient_Id": {
+    "Q0": "WES",
+    "Q0_explanation": "",
+    "Q1": "Yes",
+    "Q1_explanation": "",
+    "Q2": "Not Specified",
+    "Q2_explanation": "",
+    "Q3": "Yes",
+    "Q3_explanation": "",
+    "Q4": "Yes",
+    "Q4_explanation": "",
+    "Q5": "No",
+    "Q5_explanation": "",
+    "Q6": "Yes",
+    "Q6_explanation": "",
+    "Q7": "Not Specified",
+    "Q7_explanation": "",
+    "Q8": "No",
+    "Q8_explanation": "",
+    "identified_md5": "a5e9701c13de1dca302ad0ce45524039"
+  }
 }
-

@@ -1,0 +1,14 @@
+{
+  "total_ground_truth": 106,
+  "scored_patients": 106,
+  "policy_match_rate": 0.9905660377358491,
+  "q0_accuracy_rate": 1.0,
+  "q1_accuracy_rate": 0.7924528301886793,
+  "q2_accuracy_rate": 0.9622641509433962,
+  "q3_accuracy_rate": 0.7547169811320755,
+  "q4_accuracy_rate": 0.41509433962264153,
+  "q5_accuracy_rate": 0.5283018867924528,
+  "q6_accuracy_rate": 0.9528301886792453,
+  "q7_accuracy_rate": 0.6415094339622641,
+  "q8_accuracy_rate": 0.7169811320754716
+}

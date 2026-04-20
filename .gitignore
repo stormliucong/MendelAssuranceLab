@@ -1,4 +1,7 @@
 MendelAssurance/
 venv/
 .env
-policy-document/
+policy-documents/
+sythetic-patient/patients
+CLAUDE.md
+QA-results/
