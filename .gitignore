@@ -5,3 +5,5 @@ policy-documents/
 sythetic-patient/patients
 CLAUDE.md
 QA-results/
+._*
+.DS_Store
